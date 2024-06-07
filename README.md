@@ -12,7 +12,7 @@ Access Game: https://standycore.github.io/tower-defense-frog
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DI9u9McFnHc/0.jpg)](https://www.youtube.com/watch?v=DI9u9McFnHc)
 
-<> https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane
+< https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane >
 
 
 # Testing:
